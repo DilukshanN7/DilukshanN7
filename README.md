@@ -35,30 +35,6 @@ I work where product engineering, AI systems, and polished interfaces meet. My f
 
 </div>
 
-## Featured Work
-
-| Project | What it is | Stack / Focus |
-| --- | --- | --- |
-| [LegisDex](https://dilukshan.dev/legisdex/) | AI-powered FIDIC contract assistant for architects, engineers, and quantity surveyors. | Agentic RAG SaaS |
-| [NoxHD UI](https://dilukshan.dev/) | Beautifully designed UI library for Next.js, used by 500+ developers. | Next.js, React, Tailwind |
-| [Termicord](https://dilukshan.dev/) | Terminal-native Discord attachment downloader with a polished TUI. | CLI, terminal UI |
-| [Census Management System](https://dilukshan.dev/) | SvelteKit-based census collection and admin review system for a local government workflow. | SvelteKit, admin systems |
-| [ImagePress](https://dilukshan.dev/) | Desktop image compression tool for local batch optimization. | Electron, React |
-| [H5PtoPPTX](https://dilukshan.dev/) | Windows desktop app that converts H5P interactive content to PowerPoint. | Windows desktop tooling |
-
-## Current Direction
-
-I am especially interested in AI-assisted tools that help professionals review, decide, and ship faster: contract intelligence, internal operations, document-heavy workflows, and software that turns messy work into clear outputs.
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DilukshanN7&amp;theme=radical" alt="Dilukshan's GitHub stats" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DilukshanN7&amp;theme=radical" alt="Dilukshan's most used languages" width="49%" />
-
-</div>
-
 ## Connect
 
 - Portfolio: [dilukshan.dev](https://dilukshan.dev)
